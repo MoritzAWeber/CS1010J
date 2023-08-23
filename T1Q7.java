@@ -1,6 +1,8 @@
-class T1Q7 {
+import java.util.Scanner;
+
+public class T1Q7 {
     
-  public static void Main(String[] args) {
+  public static void main(String[] args) {
 
   Scanner sc = new Scanner(System.in);
   
@@ -11,5 +13,6 @@ class T1Q7 {
   int num1 = sc.nextInt();
   double num2 = num1 + 1.2;
 
-  System.out.println("num2 = " + num2); }
+  System.out.println("num2 = " + num2);
+  }
 }
