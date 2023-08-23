@@ -14,5 +14,7 @@ public class T1Q7 {
   double num2 = num1 + 1.2;
 
   System.out.println("num2 = " + num2);
+
+  sc.close();
   }
 }
